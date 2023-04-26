@@ -1,4 +1,8 @@
 ### What's up 👋
+- 🌱 I’m currently learning rust
+- ⚡ Fun fact: if you spell php backwards you are left with a joke
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)
 
 ```stl
 solid Exported from Blender-3.1.2
