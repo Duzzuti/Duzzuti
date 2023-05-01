@@ -1,6 +1,11 @@
+
 ### What's up 👋
-- 🌱 I’m currently learning rust
-- ⚡ Fun fact: if you spell php backwards you are left with a joke
+- 🌱 I’m currently learning rust, c++, cmake
+- 🔭 I’m currently working on a password encryption system
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cmake,qt,tensorflow,blender,github,linux,raspberrypi,vscode)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Duzzuti&theme=dark)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)
 
