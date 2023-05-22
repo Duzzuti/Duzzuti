@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Duzzuti&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)](https://github-readme-stats.vercel.app/api/top-langs/?username=duzzuti)
+[![Top Languages](https://github-readme-stats-6gs4.vercel.app/api/top-langs/?username=duzzuti&langs_count=10)](https://github-readme-stats-6gs4.vercel.app/api/top-langs/?username=duzzuti&langs_count=10)
 
 
 <!--
