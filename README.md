@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning rust, c++, cmake
 - 🔭 I’m currently working on a password encryption system
 - 📫 How to reach me:
-  - **Discord:** Duz#5042
+  - **Discord:** duz4444
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)-->
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,cmake,qt,tensorflow,blender,github,linux,raspberrypi,vscode)](https://skillicons.dev)
