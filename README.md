@@ -9,7 +9,7 @@
   - **Discord:** duz4444
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)-->
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,dart,cmake,qt,tensorflow,blender,github,linux,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,flutter,cmake,qt,tensorflow,blender,github,linux,raspberrypi,vscode)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Duzzuti&theme=dark)](https://git.io/streak-stats)
 
