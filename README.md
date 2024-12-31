@@ -1,10 +1,11 @@
 
 ### What's up 👋
-- 🌱 I’m currently learning flutter/dart, c++, cmake
+- 🌱 I’m currently building up my knowledge on architecture, datascience with python and encryption
 - 🔭 I’m currently working on
-  - poker simulation
-  - mensa app
   - password encryption system
+  - password manager
+  - file encryption system
+  - market indicators
 - 📫 How to reach me:
   - **Discord:** duz4444
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)](https://github-readme-stats.vercel.app/api?username=duzzuti&theme=radical)-->
